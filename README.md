@@ -20,13 +20,3 @@ This repository contains a FastAPI + PyTorch implementation of **ESRGAN / RRDBNe
 |-------|--------|
 | ![Input](images/LR_OIP.jpg) | ![Output](images/SR_OIP.jpg) |
 
-> Replace `images/lr_example.jpg` and `images/sr_example.jpg` with your own before/after images.
-
----
-
-## How to Test Locally
-
-1. Clone the repo:
-```bash
-git clone <your-repo-url>
-cd <repo-folder>
