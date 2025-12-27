@@ -18,5 +18,5 @@ This repository contains a FastAPI + PyTorch implementation of **ESRGAN / RRDBNe
 
 | Input | Output |
 |-------|--------|
-| ![Input](LR_OIP.jpg) | ![Output](SR_OIP.jpg) |
+| ![Input](OIP.jpg) | ![Output](SR_OIP.jpg) |
 
